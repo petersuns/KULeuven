@@ -4,7 +4,7 @@
 # Stastics IV                                         #
 # Data Assignment I                                   #
 # Group 12                                            #
-# & Shuo Sun & Eva Eggers, Axelle Bavre               #
+#  Shuo Sun & Eva Eggers, Axelle Bavre                #
 #                                                     #
 #######################################################
 
